@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-### This repository contains two Jupyter Notebook files, each with Python code for building and training a neural network model to predict the success of charitable donations using a given dataset. The dataset is loaded from a CSV file ("charity_data.csv") hosted online.
+### This repository contains two Jupyter Notebook files, each with Python code for building and training a neural network model to predict the success of charitable donations using a given dataset. The dataset is loaded from a CSV file ("https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv") hosted online.
 
 ## The first notebook file ("AlphabetSoup_classifier.ipynb") includes the following steps:
 
@@ -18,7 +18,7 @@
 
 ### - Saving the trained model to an HDF5 file ("model.h5") for future use.
 
-## The second notebook file ("AlphabetSoupCharity_Optimization.ipynb") includes similar steps as the first notebook, but with some slight differences in the preprocessing and training steps. However, the overall workflow and purpose of the code remain the same.
+## The second notebook file ("AlphabetSoupCharity_Optimization.ipynb") includes similar steps as the first notebook, but with some slight differences in the preprocessing and training steps. However, the overall workflow and purpose of the code remains the same. It explores model optimization, introducing L1 regularization and further adjustments to layers, units, and epochs.
 
 # My written report can be viewed here or at the end of the AlphabetSoupCharity_Optimization file.
 
